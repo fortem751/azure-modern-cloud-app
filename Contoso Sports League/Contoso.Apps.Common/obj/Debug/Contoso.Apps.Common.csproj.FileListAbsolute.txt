@@ -1,0 +1,10 @@
+C:\Hackathon\Contoso Sports League\Contoso.Apps.Common\bin\Debug\Contoso.Apps.Common.dll
+C:\Hackathon\Contoso Sports League\Contoso.Apps.Common\bin\Debug\Contoso.Apps.Common.pdb
+C:\Hackathon\Contoso Sports League\Contoso.Apps.Common\obj\Debug\Contoso.Apps.Common.csprojResolveAssemblyReference.cache
+C:\Hackathon\Contoso Sports League\Contoso.Apps.Common\obj\Debug\Contoso.Apps.Common.dll
+C:\Hackathon\Contoso Sports League\Contoso.Apps.Common\obj\Debug\Contoso.Apps.Common.pdb
+C:\code\vso\project20\wildwildebeest\src\Contoso Sports League\Contoso.Apps.Common\bin\Debug\Contoso.Apps.Common.dll
+C:\code\vso\project20\wildwildebeest\src\Contoso Sports League\Contoso.Apps.Common\bin\Debug\Contoso.Apps.Common.pdb
+C:\code\vso\project20\wildwildebeest\src\Contoso Sports League\Contoso.Apps.Common\obj\Debug\Contoso.Apps.Common.csprojResolveAssemblyReference.cache
+C:\code\vso\project20\wildwildebeest\src\Contoso Sports League\Contoso.Apps.Common\obj\Debug\Contoso.Apps.Common.dll
+C:\code\vso\project20\wildwildebeest\src\Contoso Sports League\Contoso.Apps.Common\obj\Debug\Contoso.Apps.Common.pdb

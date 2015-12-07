@@ -1,0 +1,10 @@
+C:\Hackathon\Contoso Sports League\Contoso.Apps.SportsLeague.Data\bin\Release\Contoso.Apps.SportsLeague.Data.dll.config
+C:\Hackathon\Contoso Sports League\Contoso.Apps.SportsLeague.Data\bin\Release\Contoso.Apps.SportsLeague.Data.dll
+C:\Hackathon\Contoso Sports League\Contoso.Apps.SportsLeague.Data\bin\Release\Contoso.Apps.SportsLeague.Data.pdb
+C:\Hackathon\Contoso Sports League\Contoso.Apps.SportsLeague.Data\bin\Release\EntityFramework.dll
+C:\Hackathon\Contoso Sports League\Contoso.Apps.SportsLeague.Data\bin\Release\EntityFramework.SqlServer.dll
+C:\Hackathon\Contoso Sports League\Contoso.Apps.SportsLeague.Data\bin\Release\EntityFramework.xml
+C:\Hackathon\Contoso Sports League\Contoso.Apps.SportsLeague.Data\bin\Release\EntityFramework.SqlServer.xml
+C:\Hackathon\Contoso Sports League\Contoso.Apps.SportsLeague.Data\obj\Release\Contoso.Apps.SportsLeague.Data.csprojResolveAssemblyReference.cache
+C:\Hackathon\Contoso Sports League\Contoso.Apps.SportsLeague.Data\obj\Release\Contoso.Apps.SportsLeague.Data.dll
+C:\Hackathon\Contoso Sports League\Contoso.Apps.SportsLeague.Data\obj\Release\Contoso.Apps.SportsLeague.Data.pdb

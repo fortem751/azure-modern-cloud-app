@@ -1,0 +1,5 @@
+C:\Hackathon\Contoso Sports League\Contoso.Apps.Common\bin\Release\Contoso.Apps.Common.dll
+C:\Hackathon\Contoso Sports League\Contoso.Apps.Common\bin\Release\Contoso.Apps.Common.pdb
+C:\Hackathon\Contoso Sports League\Contoso.Apps.Common\obj\Release\Contoso.Apps.Common.csprojResolveAssemblyReference.cache
+C:\Hackathon\Contoso Sports League\Contoso.Apps.Common\obj\Release\Contoso.Apps.Common.dll
+C:\Hackathon\Contoso Sports League\Contoso.Apps.Common\obj\Release\Contoso.Apps.Common.pdb
